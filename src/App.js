@@ -1,9 +1,9 @@
-import Register from "./pages/register/Register";
+import Sidebar from "./components/sidebar/Sidebar";
 
 function App() {
   return (
     <div className="App">
-      <Register />
+      <Sidebar />
     </div>
   );
 }
